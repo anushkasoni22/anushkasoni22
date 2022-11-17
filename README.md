@@ -1,8 +1,8 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 align="center">Hi 👋, I'm Anushka Soni</h1>
 <h3 align="center">A passionate developer and competitive programmer of India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHzIDvgWMCFMLr3c_PCZfHAGVsZ6-2ZRWhA&usqp=CAU
-">
+<img align="right" alt="Coding" width="400" 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHzIDvgWMCFMLr3c_PCZfHAGVsZ6-2ZRWhA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkasoni22&label=Profile%20views&color=0e75b6&style=flat" alt="anushkasoni22" /> </p>
 
