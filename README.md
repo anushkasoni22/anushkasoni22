@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushkasoni22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasoni22&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushkasoni22&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkasoni22&layout=compact&theme=dracula" height="150" />
+
 </div>
 
 ###
@@ -79,5 +79,6 @@
 <br clear="both" />
 
 <!-- 🐍 Snake Animation -->
-<img src="https://github.com/anushkasoni22/anushkasoni22/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anushkasoni22/anushkasoni22/output/snake.svg" alt="Snake animation" />
+
 
