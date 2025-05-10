@@ -60,14 +60,6 @@
 
 ###
 
-<h3>🌐 Portfolio</h3>
-
-<a href="https://github.com/anushkasoni22">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
-</a>
-
-###
-
 <h3>📬 Connect with Me</h3>
 
 <div align="left">
@@ -86,5 +78,5 @@
 
 <br clear="both" />
 
+<!-- 🐍 Snake Animation -->
 <img src="https://raw.githubusercontent.com/anushkasoni22/anushkasoni22/output/snake.svg" alt="Snake animation" />
-
