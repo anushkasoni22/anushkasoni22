@@ -1,33 +1,89 @@
-![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
-<h1 align="center">Hi 👋, I'm Anushka Soni</h1>
-<h3 align="center">A passionate developer and competitive programmer of India</h3>
-<img align="right" alt="Coding" width="400" 
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHzIDvgWMCFMLr3c_PCZfHAGVsZ6-2ZRWhA&usqp=CAU">
+<h2 align="left">Hi 👋! I'm Anushka Soni, a passionate Data Scientist and Developer, skilled in AI, Machine Learning, and impactful problem-solving.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkasoni22&label=Profile%20views&color=0e75b6&style=flat" alt="anushkasoni22" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/_anushkasoni_" target="blank"><img src="https://img.shields.io/twitter/follow/_anushkasoni_?logo=twitter&style=for-the-badge" alt="_anushkasoni_" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anushkasoni22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasoni22&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
 
-- 🌱 I’m currently studying at **Vellore Institute Of Technology**
+###
 
-- 💬 Ask me about **python**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-- 📫 How to reach me **anushkasoni96526@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_anushkasoni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anushkasoni_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushka-soni-59589a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-soni-59589a215" height="30" width="40" /></a>
-<a href="https://fb.com/anushka soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushka soni" height="30" width="40" /></a>
-<a href="https://instagram.com/_anushkasoni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anushkasoni_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anushkasoni2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushkasoni2022" height="30" width="40" /></a>
-</p>
+<h3>🛠️ Tech Stack</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/30/000000/external-excel-office-flat-flat-juicy-fish.png" alt="excel logo" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkasoni22&show_icons=true&locale=en&layout=compact" alt="anushkasoni22" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkasoni22&show_icons=true&locale=en" alt="anushkasoni22" /></p>
+<h3>🚀 Projects & Research</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasoni22&" alt="anushkasoni22" /></p>
+<strong>🔧 SOS For Emergency Using DL (Oct 2024 – Present)</strong>
+<p>Designed mobile and web UIs, increasing emergency access by 40%. Used deep learning on 10K+ cases to reach 85% accuracy in severity detection. Integrated APIs for automated emergency alerts, reducing response time by 30%.</p>
+
+<strong>🤖 VITGPT Chatbot (Aug 2023 – Oct 2023)</strong>
+<p>Built an AI chatbot for VIT students, cutting manual inquiry time by 40%. Used Firebase for real-time management, improving authentication speed by 25% and securing data for 500+ users. Led NLP enhancements for better query accuracy.</p>
+
+<strong>🚚 Air Pressure System ML Model (Jan 2024 – May 2024)</strong>
+<p>Developed ML models for truck maintenance, decreasing breakdowns by 30% and boosting uptime. Tackled class imbalance, data quality, and model generalization issues. Improved overall maintenance efficiency by 25%.</p>
+
+###
+
+<h3>🏆 Achievements & Roles</h3>
+
+<ul>
+  <li>💻 Completed 100 Days of Code (Java + DSA), solving 200+ challenges.</li>
+  <li>🎭 Core member of Hindi Club (10+ events including Advitya Fest).</li>
+  <li>🎉 Event management lead in Gujarat Club, leading 100+ students for cultural & academic programs.</li>
+  <li>🎤 Coordinated VIT’s cultural fest "Advitya", managing finance, stage, and logistics for 1,500+ attendees and cut costs by 20%.</li>
+</ul>
+
+###
+
+<h3>🌐 Portfolio</h3>
+
+<a href="https://github.com/anushkasoni22">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+</a>
+
+###
+
+<h3>📬 Connect with Me</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/anushka-soni-59589a215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anushka%20Soni-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:anushkasoni96526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anushkasoni96526@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/anushkasoni22">
+    <img src="https://img.shields.io/badge/GitHub-anushkasoni22-black?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
+</div>
+
+###
+
+<br clear="both" />
+
+<img src="https://github.com/anushkasoni22/anushkasoni22/blob/output/snake.svg" alt="Snake animation" />
