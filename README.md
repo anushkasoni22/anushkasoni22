@@ -79,4 +79,5 @@
 <br clear="both" />
 
 <!-- 🐍 Snake Animation -->
-<img src="https://raw.githubusercontent.com/anushkasoni22/anushkasoni22/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/anushkasoni22/anushkasoni22/blob/output/snake.svg" alt="Snake animation" />
+
